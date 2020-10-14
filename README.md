@@ -2,7 +2,7 @@
 
 J.A.R.V.I.S is an Artificial Intelligence (AI) powered Home Assistant (bot) that can help you enjoy a 'smarter home' just by interacting with it in the most natural way!
 
-# The features I want to have are:
+# 3 features I want to have from this project:
 
 - Recognize spoken voice (Speech recognition)
 - Answer in spoken voice (Text to speech)
