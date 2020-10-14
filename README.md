@@ -1,4 +1,4 @@
-# personal-assitant by python and Jarvis
+# Personal-Assitant by python and Jarvis
 
 J.A.R.V.I.S is an Artificial Intelligence (AI) powered Home Assistant (bot) that can help you enjoy a 'smarter home' just by interacting with it in the most natural way!
 
