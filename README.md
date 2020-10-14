@@ -42,3 +42,12 @@ J.A.R.V.I.S can communicate instantly with other devices at home. Firebase allow
 Raspberry Pi, Arduino UNO
 
 J.A.R.V.I.S is powered by a set of mini computers. The bot runs on a handful of computers (One Raspberry Pi and a couple of Arduinos) the size of your palm, yet very powerful.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Library Needed (Windows 10)
+pip install pipwin
+pipwin install pyaudio
+
+pip install SpeechRecognition
+pip install gTTS
