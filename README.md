@@ -47,7 +47,9 @@ J.A.R.V.I.S is powered by a set of mini computers. The bot runs on a handful of 
 
 # Library Needed (Windows 10)
 pip install pipwin
+
 pipwin install pyaudio
 
 pip install SpeechRecognition
+
 pip install gTTS
