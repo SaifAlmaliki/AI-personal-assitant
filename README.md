@@ -45,7 +45,7 @@ J.A.R.V.I.S is powered by a set of mini computers. The bot runs on a handful of 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Library Needed (Windows 10)
+# Library Needed for this project(Windows 10)
 pip install pipwin
 
 pipwin install pyaudio
